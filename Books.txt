@@ -1,0 +1,43 @@
+6
+IB Mathematics HL 
+2008
+Eric,Borh,male
+[34, 45, 56, 67, 78]
+50.0
+Germany
+333
+IB Chemistry
+2013
+Ergidus,Gasmar,male
+[55, 33, 34, 45]
+23.0
+France
+222
+IB Economics 
+2015
+Johnathan,Hidensn,male
+[12, 23, 34, 45]
+39.0
+Spain
+999
+IB English 
+2010
+Markus,Gasmar,male
+[18, 21, 34, 23, 11, 1]
+10.0
+Greece
+888
+IB Greek
+2010
+Elsa,Smithers,male
+[55, 33]
+10.0
+Mexico
+424
+IB Spanish 
+2017
+Isiodora,Hidhwoid,male
+[0]
+10.0
+Spain
+383

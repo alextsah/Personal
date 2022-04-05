@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pdf
+comment1.params=
+comment1.target=Pdf()
+comment2.params=
+comment2.target=org.apache.pdfbox.pdmodel.PDDocument\ getDoc()
+comment3.params=doc
+comment3.target=void\ setDoc(org.apache.pdfbox.pdmodel.PDDocument)
+comment4.params=ch
+comment4.target=void\ addChart(javafx.scene.chart.Chart)
+numComments=5

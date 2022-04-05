@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Author
+comment1.params=
+comment1.target=Author()
+comment2.params=firstName\ lastName\ female
+comment2.target=Author(java.lang.String,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment5.params=
+comment5.target=boolean\ isFemale()
+comment6.params=firstName
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=lastName
+comment7.target=void\ setLastName(java.lang.String)
+comment8.params=female
+comment8.target=void\ isFemale(boolean)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

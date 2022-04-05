@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Matrix
+comment1.params=
+comment1.target=Matrix()
+comment2.params=mat
+comment2.target=Matrix(double[][])
+comment3.params=
+comment3.target=double[][]\ getMat()
+comment4.params=
+comment4.target=Matrix\ transpose()
+comment5.params=m
+comment5.target=Matrix\ multiplyBy(Matrix)
+comment6.params=scalar
+comment6.target=Matrix\ multiplyBy(double)
+comment7.params=
+comment7.target=Matrix\ inverse()
+comment8.params=arr\ i\ j
+comment8.target=void\ swapRows(double[][],\ int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
